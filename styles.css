@@ -9,11 +9,11 @@ ul {
 }
 
 body {
-    background-image: url(./Assets/BG.jpg);
+    background-image: url(./Assets/BG.png);
     background-position:top center;
     background-size: 100% auto;
     background-repeat: no-repeat;
-    background-color: #121214;
+    background-color: #c5ccd6;
 }
 
 body * {
@@ -31,7 +31,7 @@ header {
 header div {
     width: 120px;
     margin: auto;
-    background-image: linear-gradient(90deg, #9572FC 0%, #43E7AD 50.52%, #E2D45C 100%);
+    background-image: linear-gradient(90deg, #252d3a 0%, #8495a5 50.52%, #212530 100%);
     border-radius: 50%;
     display: flex;
     padding: 4px;
@@ -62,7 +62,7 @@ main {
 
 section  {
     color: white;
-    background-image: linear-gradient(90deg, #9572FC 0%, #43E7AD 50.52%, #E2D45C 100%);
+    background-image: linear-gradient(90deg, #252d3a 0%, #8495a5 50.52%, #212530 100%);
     padding-top: 4px;
     border-radius: 10px;
 }
